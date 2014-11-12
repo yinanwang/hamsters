@@ -10,7 +10,7 @@ body {
 	font-size: 10px;
 	line-height: 14px;
 	margin: 0px auto;
-	background-image: url(background3.png)
+	background-image: url(img/background3.png)
 }
 p{
 	font-size: 13;
@@ -71,8 +71,8 @@ div.headbox{
 }
 .fur{
 	width: 60px;
-	margin-left: 51;
-	margin-right: 51;
+	margin-left: 51px;
+	margin-right: 51px;
 	float: left;
 }
 .hamhead{
