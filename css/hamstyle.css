@@ -1,0 +1,155 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0; padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: baseline;
+}
+
+body {
+	width: 1200px;
+	margin: 0px auto;
+	font-family:sans-serif;
+	font-weight: bolder;
+	font-size: 10px;
+	line-height: 14px;
+	margin: 0px auto;
+	background-image: url(background3.png)
+}
+p{
+	font-size: 13;
+	font-weight: 200;
+	margin-top: 10px;
+}
+div.header{
+	width: 1200px;
+	padding-left: 260px;
+	height: 150px;
+	float: left;
+}
+.logo{
+	width: 180px;
+	margin-top: 50px;
+	padding-left: 10px;
+	float: left;
+	border-left: 2px solid #bab9b9;
+}
+div.menubox{
+	float: left;
+	margin-top: 55px;
+	margin-right: 10px;
+}
+ul.menu{
+	font-family: sans-serif;
+	font-size: 15px;
+	font-weight: 700;
+	font-variant: small-caps;
+	text-align: right;
+	margin-top: 16px;
+}
+.hidden{
+	display: block;
+}
+/*---------------------home---------------------*/
+div.button{
+	float: left;
+	width: 100px;
+	height: 200px;
+	margin-left:207px;
+	margin-top: 95px;
+	font-weight: 200;
+	font-size: 14;
+	text-align: right;
+}
+ul.side{
+	width: 75px;
+	margin-top: 10px;
+	padding:5px;
+	border-bottom: 1px solid black;
+}
+div.headbox{
+	float: left;
+	width: 730px;
+	padding: 40px 20px;
+	margin-bottom: 10px;
+}
+.fur{
+	width: 60px;
+	margin-left: 51;
+	margin-right: 51;
+	float: left;
+}
+.hamhead{
+	width: 120px;
+	margin: 20px 20px;
+}
+
+.circle {
+	border-radius: 50%;
+}
+.surprise{
+	width: 120px;
+	height: 120px;
+}
+/*---------------------description---------------------*/
+.videobar{
+	height: 300px;
+	background-color: black;
+	position: relative;
+	margin: 30px 0;
+}
+.hidden{
+	display: none;
+}
+.video{
+	height: 300px;
+	margin-left: 346px;
+}
+.descript{
+	margin-left: 348px;
+	margin-bottom: 30px;
+	float: left;
+	width: 450px;
+}
+.subtitle{
+	font-weight: 700;
+	font-size: 16px;
+}
+ul{
+	margin-top:10px;
+	font-size: 14px;
+	font-weight: 200;
+}
+.related{
+	float: left;
+}
+.hamheadr{
+	width: 120px;
+	margin: 20px 20px 20px 0;
+}
+/*---------------------ninevideo---------------------*/
+.ninebox{
+	width: 930px;
+	height: 630px;
+	margin:50px auto;
+	border: 4px solid white;
+}
+.onenine{
+	width: 300px;
+	border: 5px solid white;
+	float: left;
+}
+/*---------------------photo---------------------*/
+p.word{
+	margin: 20px auto;
+	width: 450px;
+	text-align: center;
+}
+.photo{
+	display: block;
+	margin: 20px auto;
+}
+/*----------------------footer------------------------*/
+.footer{
+	text-align: center;
+	font-size: 13px;
+	font-weight: 100;
+	line-height: 1.5;
+	margin-bottom: 40px;
+}
